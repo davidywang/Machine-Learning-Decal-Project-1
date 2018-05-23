@@ -1,2 +1,2 @@
-# mlproject1
-yes yes yes
+# Machine Learning Decal Project 1: Data Cleaning, Visualization, & Mining
+In this group project, we explored a Kaggle dataset from the U.S. Census Bureau and the 2015 American Community Survey. We used the numpy, pandas, sklearn, and seaborn Python libraries to perform graphical analysis in the form of scatter plots and heat maps and data analysis in the form of linear regression between financial indicators.
